@@ -161,9 +161,3 @@ Esse código gera cards automáticos no navegador.
 
 ---
 
-```
-
----
-
-👉 Guilherme, quer que eu também adicione **prints de exemplo** (HTML gerado dos cards) no README para ficar ainda mais visual?
-```
