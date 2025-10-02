@@ -1,13 +1,3 @@
-<?php
-
-require_once 'header.php';
-
-require_once 'cards.php';
-
-require_once 'footer.php'
-
-?>
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -16,7 +6,16 @@ require_once 'footer.php'
     <title>Index</title>
 </head>
 <body>
-    
+    <?php
+
+        require_once 'header.php';
+
+        require_once 'cards.php';
+
+        require_once 'footer.php'
+
+    ?>
 </body>
 </html>
+
 
